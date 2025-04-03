@@ -1,4 +1,4 @@
-package org.Kchen.IterationAndRecursive;
+package org.kchen.iterationandrecursive;
 
 public class IterationAndRecursiveLearning {
     public static void IterationArray(int[] arr){

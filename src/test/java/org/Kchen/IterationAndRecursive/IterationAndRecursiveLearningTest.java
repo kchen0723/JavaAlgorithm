@@ -1,6 +1,6 @@
-package org.Kchen.IterationAndRecursive;
+package org.kchen.iterationandrecursive;
 
-import org.Kchen.IterationAndRecursive.*;
+import org.kchen.iterationandrecursive.*;
 import org.junit.jupiter.api.*;
 
 public class IterationAndRecursiveLearningTest {
